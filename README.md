@@ -15,7 +15,7 @@ Playpod services are grouped into the following categories:
   * League Services
   * User Services
   
-Documentations on how to use each service inclusing sample codes can be found in [Wiki pages](https://github.com/play-pod-ir/UnitySDK/wiki) for each individual service.
+Documentations on how to use each service including sample codes can be found in [Wiki pages](https://github.com/play-pod-ir/UnitySDK/wiki) for each individual service.
 
 ## GIVE FEEDBACK
 Please report bugs or issues to [Issues tab](https://github.com/play-pod-ir/UnitySDK/issues).
