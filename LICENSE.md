@@ -19,9 +19,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## Third Party Licenses
 
 The following sets forth attribution notices for third party software that may be contained in portions of the Wolf Engine. 
-Thanks for the open source community for all of their contributions.
-
-
+Thanks for the open source community for all of their contributions.  
+  
 [websocket-sharp](https://github.com/sta/websocket-sharp)
 
 The MIT License (MIT)
