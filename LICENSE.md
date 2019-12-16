@@ -21,7 +21,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 The following sets forth attribution notices for third party software that may be contained in portions of the Wolf Engine. 
 Thanks for the open source community for all of their contributions.  
   
-[websocket-sharp](https://github.com/sta/websocket-sharp)
+### [websocket-sharp](https://github.com/sta/websocket-sharp)
 
 The MIT License (MIT)
 
@@ -43,10 +43,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
-
-[Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
+THE SOFTWARE.  
+  
+### [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
 
 The MIT License (MIT)
 
@@ -59,7 +58,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-[SimpleJSON](https://github.com/Bunny83/SimpleJSON)
+### [SimpleJSON](https://github.com/Bunny83/SimpleJSON)
 
 The MIT License (MIT)
 
