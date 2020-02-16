@@ -1,7 +1,7 @@
 # Playpod SDK for Unity
 This open-source library allows you to integrate Playpod into your Unity app.
 
-Learn more about about the provided samples, documentation, integrating the SDK into your app, accessing source code, and more at [Wiki pages](https://github.com/play-pod-ir/UnitySDK/wiki).
+Learn more about the provided samples, documentation, integrating the SDK into your app, accessing source code, and more at [Wiki pages](https://github.com/play-pod-ir/UnitySDK/wiki).
 
 ## TRY IT OUT
 Check-out the tutorials available online at [getting started](https://github.com/play-pod-ir/UnitySDK/wiki/Getting-Started)
